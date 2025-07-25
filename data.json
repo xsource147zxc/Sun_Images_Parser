@@ -1,0 +1,328 @@
+{
+    "version": "1.0",
+    "type": "sun",
+    "error": "",
+    "tzone": "Moscow (UTC+03)",
+    "stime": "2025-07-24T00:00:00",
+    "etime": "2025-07-24T23:59:59",
+    "channel": "171",
+    "url": "https:\/\/xras.ru\/database\/sun_images\/",
+    "N": "35",
+    "data": [
+        {
+            "time": "2025-07-24T08:36:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_053646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T08:26:22",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_052622_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T08:07:34",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_050734_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T07:47:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_044710_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T07:36:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_043658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T07:26:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_042658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T07:16:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_041646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T07:06:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_040646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T06:56:34",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_035634_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T06:37:22",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_033722_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T06:27:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_032710_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T06:16:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_031658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T05:56:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_025658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T05:46:34",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_024634_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T05:27:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_022710_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T05:06:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_020658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T04:56:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_015646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T04:38:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_013810_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T04:26:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_012610_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T04:15:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_011558_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T03:57:34",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_005734_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T03:46:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_004646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T03:27:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_002710_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T03:16:10",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250724_001610_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T02:57:22",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_235722_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T02:46:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_234646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T02:26:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_232658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T02:07:22",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_230722_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T01:47:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_224758_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T01:27:22",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_222722_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T01:16:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_221658_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T00:56:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_215646_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T00:45:58",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_214558_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T00:27:46",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_212746_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        },
+        {
+            "time": "2025-07-24T00:07:22",
+            "type": "171",
+            "channel": "aia171",
+            "path": "2025\/aia171\/202507\/",
+            "fname": "20250723_210722_aia171.jpg",
+            "instrument": "SDO\/AIA",
+            "wlen": "17.1 nm"
+        }
+    ]
+}
